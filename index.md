@@ -1,23 +1,32 @@
-Tutorial NodeJS, Express, Atom, GitHub, Cloud9 y Markdown
-======================================================
+Tareas iniciales de la asignatura Procesadores de Lenguajes
+==========================================================
 
-## Instalación de NodeJS en Windows
+## Instalación de NodeJS y npm en Windows
 
 Es un intérprete **Javascript** del lado del servidor que cambia la noción de cómo debería trabajar un servidor. Su meta es permitir a un programador construir aplicaciones altamente escalables y escribir código que maneje decenas de miles de conexiones simultáneas en una sólo una máquina física.
 
-Para empezar a utilizarlo descargar el paquete de instalación para la plataforma windows y seguir los pasos del asistente de instalación de **NodeJS**.
+Para empezar a utilizarlo descargar el paquete de instalación para la plataforma windows y seguir los pasos del asistente de instalación de **NodeJS**. Junto a **NodeJS**, tambien se instalará **npm**.
 
-![](images/node.png)
 
-Abrimos la consola de **NodeJS** y comprobamos que se ha instalado correctamente, aparecerá el siguiente mensaje que indica que se ha instalado.
+Abrimos la consola de **NodeJS** y la de windows, de esta forma comprobamos que tando **NodeJS** como **npm** se ha instalado correctamente probando algunos comandos como los siguientes:
+
+> `node -v`
+
+> `npm -v`
+
+![](images/node_npm.png)
+
+> `.help`
+
+![](images/node_help.png)
 
 Instalamos el framework **Express** con la consola de **NodeJS** y el siguiente comando:
 
 **Comando**
 
-> `npm install express --save`
+> `npm install express`
 
-![](images/node2.png)
+![](images/express.png)
 
 ## Instalación del editor de texto Atom
 
