@@ -130,6 +130,22 @@ Col.1     |    Col.2
 Contenido | Contenido
 ```
 
+## Instalación de Pandoc
+**Pandoc** es un software gratuito de código abierto que nos permitirá la tradución de archivos en formato **Markdown** a **HTML**, aunque su potencia va mucho más alla. Para su instalación no hace falta más que ir a su página oficial y seguir las instruccion para descargarlo e instalarlo.
+
+Como **Pandoc** no tiene una interfáz gráfica, para utilizarlo tendremos que abrir una consola, donde primero comprobaremos que se ha instalado correctamente con el siguiente comando
+
+> `pandoc --version`
+
+![](images/pandoc_ver.png)
+
+Para convertir un fichero **Markdown** a **HTML** tendremos que estar en el directorio del fichero para ejecutar el comando que generará el archivo nuevo.
+
+> `pandoc index.md  -f markdown  -t html -s -o index.html`
+
+![](images/pandoc.png)
+
+
 **Recursos:**
 
 * [NodeJS](https://nodejs.org)
@@ -139,4 +155,5 @@ Contenido | Contenido
 * [GitHub Pages](https://pages.github.com/)
 * [Cloud 9 IDE](https://c9.io)
 * [Markdown](http://daringfireball.net/projects/markdown/)
+* [Pandoc](http://pandoc.org/)
 * [Resultado del Markdown HTML](http://alu0100536652.github.io/Tutorial-STW/)
