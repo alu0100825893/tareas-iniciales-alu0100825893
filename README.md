@@ -1,6 +1,6 @@
-## Tarea Inicial
+## Tarea Inicial de Procesadores de Lenguajes
 
-Configuración de las herramientas y tecnologías a utilizar en la asignatura Sistemas y Tecnologías Webs.
+Instalación y configuración de las herramientas y tecnologías a utilizar en la asignatura.
 
 * NodeJS
 * Express
@@ -8,6 +8,7 @@ Configuración de las herramientas y tecnologías a utilizar en la asignatura Si
 * GitHub
 * Cloud9
 * Markdown
+* Pandoc
 
 [Página personal de prácticas](http://alu0100536652.github.io/)
 
