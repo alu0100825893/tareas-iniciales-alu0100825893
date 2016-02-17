@@ -62,11 +62,15 @@ Además,junto con la instalación de **GitHub** podremos tener una consola llama
 
 Es un IDE de desarrollo online, para su uso será necesario crear una cuenta en la página oficial o acceder con las credenciales de GitHub si ya se dispone de una cuenta. Una vez registrados podremos crear proyectos de varias tecnologías como puede ser NodeJS, HTML5, C++, Ruby On Rails, etc.
 
-![](images/cloud.png)
+![](images/c9.png)
 
-Si disponemos de algún proyecto en un repositorio de GitHub podremos asociarlo a **Cloud9** para trabajar en él tan solo creando un “`nuevo workspace`” y añadiendo la url *git* del correspondiente repositorio.
+Si disponemos de algún proyecto en un repositorio de GitHub podremos asociarlo a **Cloud9** para trabajar en él tan solo creando un “`nuevo workspace`” y añadiendo la url *git* del correspondiente repositorio o en el mismo **Cloud9** podemos ver los repositorios conectados y clonarlos.
 
-![](images/cloud2.png)
+![](images/c9_clone.png)
+
+Para poder ver los repositorios en **Cloud9** habrá que vincularla con la cuenta de **GitHub**.
+
+![](images/cloud9.png)
 
 Además **Cloud9** permite el trabajo en equipo en el IDE añadiendo miembros a tu workspace.
 
