@@ -86,7 +86,13 @@ Encabezados
 # Encabezado H1
 ## Encabezado H2
 ### Encabezado H3
+
+ESTO ES UN H1
+=============
+ESTO ES UN H2
+-------------
 ```
+
 Tipografía
 ```
 **Negrita**
@@ -94,12 +100,14 @@ Tipografía
 > Citas
 Parrafo separar por lineas en blanco
 `Codigo`
+~~Tachado~~
 ```
 Recursos
 ```
 ![Texto imagen](url-imagen)
 * [Links](https://example.com)
 ```
+
 Listas
 ```
 1. Lista 1
@@ -107,6 +115,19 @@ Listas
 
 * Lista 1
 * Lista 2
+
++ Lista 1
++ Lista 2
+
+- Lista 1
+- Lista 2
+```
+
+Tablas
+```
+Col.1     |    Col.2
+----------|-----------
+Contenido | Contenido
 ```
 
 **Recursos:**
