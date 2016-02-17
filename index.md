@@ -30,11 +30,13 @@ Instalamos el framework **Express** con la consola de **NodeJS** y el siguiente 
 
 ## Instalación del editor de texto Atom
 
-Usaremos **Atom** como editor de texto para el desarrollo de nuestros proyectos, para ello descargamos el instalador en la página oficial de atom, y a continuación ejecutamos el asistente de instalación.
+Usaremos **Atom** como editor de texto para el desarrollo de nuestros proyectos, para ello descargamos el instalador en la página oficial de atom, y a continuación ejecutamos el asistente de instalación. Al abrir una proyecto podremos ver la sencillez del editor
 
-![](images/atom1.png)
+![](images/atom.png)
 
 Dado que vamos a utilizar el formato **Markdown** es bueno saber que en **Atom** podremos obtener una preview del contenido de nuestro fichero Markdown ya que incorpora el formato **GitHub Markdown** con el comando:
+
+![](images/preview_atom.png)
 
 **Comando**
 
