@@ -49,9 +49,14 @@ Dado que vamos a utilizar el formato **Markdown** es bueno saber que en **Atom**
 
 GitHub es una plataforma para alojar proyectos utilizando el sistema de control de versiones **Git**. Para instalarlo accedemos a la página oficial de **GitHub** y descargamos el instalador que ejecutaremos posteriormente para iniciar el asistente de instalación.
 
-![](images/git.png)
 
-Una vez instalado configuramos nuestra cuenta de **GitHub** en la aplicación para poder sincronizar nuestro repositorio tanto local como remoto, en caso de no tener cuenta crearemos una en la página de **GitHub**.
+Una vez instalado configuramos nuestra cuenta de **GitHub** en la aplicación para poder sincronizar nuestro repositorio tanto local como remoto, en caso de no tener cuenta crearemos una en la página de **GitHub**. Al cargar un proyecto podremos ver el historial de su desarrollo.
+
+![](images/github.png)
+
+Además,junto con la instalación de **GitHub** podremos tener una consola llamada **Git Shell** con la que podremos utilizar comandos propios de git.
+
+![](images/git_shell.png)
 
 ## Cloud 9
 
